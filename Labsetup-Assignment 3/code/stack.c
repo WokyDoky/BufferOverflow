@@ -6,7 +6,7 @@
  * Suggested range: 100 to 400.
  */
 #ifndef BUF_SIZE
-#define BUF_SIZE 100
+#define BUF_SIZE 200
 #endif
 
 void dummy_function(char *str);
